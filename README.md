@@ -23,7 +23,7 @@ The **Probability of Two Options** project is a web-based tool designed to calcu
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/probability-of-two-options.git
+   git clone https://github.com/sulay01/probability-of-two-options.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
