@@ -64,5 +64,4 @@ Professional Technical Writer | Data Analyst | Associate Scientist\
 
 ---
 
-*This project was created for demonstration purposes to showcase technical writing skills and frontend development capabilities.*
 
